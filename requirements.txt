@@ -20,3 +20,6 @@ yagmail
 flask-talisman
 flask-wtf
 rdoclient
+calmap
+werkzeug==0.16.1
+rdoclient-py3
